@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Prince",
+        "age": 21,
+        "course": "Cse",
+        "marks": 80
+    },
+    {
+        "name": "prit",
+        "age": 21,
+        "course": "cse",
+        "marks": 91
+    }
+]
